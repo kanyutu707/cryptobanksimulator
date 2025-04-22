@@ -4,7 +4,7 @@ This is a C++ console-based banking simulation project that allows users to:
 
 - View account details
 - Deposit and withdraw money
-- Buy and sell cryptocurrencies (Dogecoin and Bitcoin)
+- Buy and sell cryptocurrencies
 - Track transaction history
 
 Cryptocurrency transactions include a random luck factor when purchasing to simulate market unpredictability.
